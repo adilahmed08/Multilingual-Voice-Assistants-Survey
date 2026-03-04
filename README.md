@@ -27,8 +27,7 @@ It also examines real-world challenges - including accent variation, code-switch
 - Automotive human–machine interaction
 - Evaluation metrics for speech AI systems
 
-## Research Paper
-## Author
+## Research Paper Author
 
 Adil Ahmed  
 B.Sc. Computer Science & Artificial Intelligence  
